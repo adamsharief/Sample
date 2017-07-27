@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Example Table" max_length="40" name="x_130762_git_video_example_table" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone NO." max_length="40" name="phone_no" type="integer"/>
+    </element>
+</database>
